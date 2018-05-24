@@ -1,6 +1,6 @@
 package OOPs;
 
-public class MethodOverLoading {//blue print or a plan use to create an object;contains data members and there action
+public class MethodOverLoading {//class is a blue print or a plan use to create an object;contains data members and there action
 	static int a,b;//static variables
 	 int c=1,d=2;//instance variables 
 	void disply(int a,int b){
@@ -25,5 +25,5 @@ public class MethodOverLoading {//blue print or a plan use to create an object;c
 	}
 
 }
-//note;JVM allocates defaults values to the instance and static variable 
-//but not local variables
+/*note;JVM allocates defaults values to the instance and static variable 
+but not local variables*/

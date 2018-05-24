@@ -17,12 +17,12 @@ class Son extends Daddy{
 }
 	class Child extends Son{
 		void smile(){
-			System.out.println("Keep smile....");//multi level inheritance
+			System.out.println("Keep smile....");// Multi level inheritance
 		}
+		
 public static void main(String[] args) {
 		Child c = new Child();
 		c.marry();
 		c.smile();
-		
 	}
 }

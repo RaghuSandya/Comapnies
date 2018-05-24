@@ -20,9 +20,7 @@ public class Febonacci {
 			a=b;
 			b=k;
 	}
-	
-	
-	}
+ }
 }
 
 
